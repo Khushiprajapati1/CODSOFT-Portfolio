@@ -1,6 +1,6 @@
 // Code for typing effect
 var typed = new Typed('#element', {
-    strings: ['Web Developer.', 'Web Designer.', 'Full Stack Developer.'],
+    strings: ['Web Developer.', 'MERN Stack Developer.', 'Full Stack Developer.'],
     typeSpeed: 50,
 });
 

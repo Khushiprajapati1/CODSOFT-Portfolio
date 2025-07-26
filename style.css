@@ -26,10 +26,10 @@ body {
 .section-1 {
     height: 100vh;
     width: 100%;
-    background-image: url('images/khushi.png');
+    background-image: url('images/Photograph_2.png');
     background-size: contain;
     background-repeat: no-repeat;
-    background-position: 0 3rem;
+    background-position: -8.5rem 3rem;
     border-bottom: 1px solid rgba(0, 56, 112, 0.795);
 }
 
